@@ -1,0 +1,6 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Green Sky Arcade
+tagline: Software Projects, Ideas, and Games
+description: This site is dedicated to a collection of unfinished projects and games that will most likely never be finished.
